@@ -1,0 +1,12 @@
+.list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 700px;
+}
+
+.list_item {
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+}
